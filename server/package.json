@@ -1,0 +1,9 @@
+{
+  "name": "E-Care",
+  "version": "v1",
+  "description": "Is an app that focused on the proper being of human being.",
+  "main": "app.js",
+  "repository": "https://github.com/e-care-enye/E-Care-BE",
+  "author": "Alao-Abiodun",
+  "license": "MIT"
+}
